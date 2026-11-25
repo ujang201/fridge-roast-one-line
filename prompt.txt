@@ -1,0 +1,9 @@
+Write one original roast line, at most 200 characters, roasting a smart fridge for the make.fun bounty "Fridge Roast: One Line, Biggest Laugh".
+
+The line must be a roast aimed at the fridge itself — its app, its firmware, or its ice maker — not at the owner and not at kitchen appliances in general. It must land a punchline on the first read, be specific to smart fridges, use tight wording with no setup the punchline does not need, and take a fresh angle: avoid the obvious cracks about the fridge ordering groceries or watching you.
+
+Angle chosen: the fridge pushes a firmware update in the middle of the night and afterwards a basic job — making ice — is locked behind a subscription. The turn is that the appliance used to do exactly one dumb thing well: be cold.
+
+Final line (written by main.ts to /output/entry.txt):
+
+My smart fridge pushed a firmware update at 3 a.m. and now the ice maker needs a subscription — it used to just be cold.
